@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rakibulhasanshowrov
-- 👀 I’m interested in coding
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning DBMS
 - 💞️ I’m looking to collaborate on a DBMS project 
-- 📫 How to reach me ...
+- 📫 How to reach me ..
+- email me rakibul.showrov@northsouth.edu
 
 <!---
 rakibulhasanshowrov/rakibulhasanshowrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
