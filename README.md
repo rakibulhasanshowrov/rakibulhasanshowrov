@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakibulhasanshowrov
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on a MERN project 
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on a Django project 
 - 📫 How to reach me ..
 - email me rakibul.showrov@northsouth.edu
 
