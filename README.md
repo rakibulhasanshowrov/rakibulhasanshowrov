@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on a Django project 
 - 📫 How to reach me ..
-- email me rakibul.showrov@northsouth.edu
+- email me rakibulhasanshowrov@gmail.com
 
 <!---
 rakibulhasanshowrov/rakibulhasanshowrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
